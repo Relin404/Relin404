@@ -2,7 +2,6 @@
 
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Relin404&theme=2)
 
-Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
 
 <!--
 **Relin404/Relin404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
