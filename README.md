@@ -1,6 +1,6 @@
-## Codeforces 
+<!-- ## Codeforces  -->
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Relin404&theme=2)
+<!-- ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Relin404&theme=2) -->
 
 
 <!--
