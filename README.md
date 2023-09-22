@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Nest.js, PostgreSQL, Node.js Design Patterns**
 
-- 📝 I regularly write articles on [https://medium.com/@ahmadmashaal01](https://medium.com/@ahmadmashaal01)
+- 📝 I write on [https://medium.com/@ahmadmashaal01](https://medium.com/@ahmadmashaal01), but currently refilling my pen!
 
 - 📫 How to reach me **ahmadmashaal01@gmail.com**
 <!--<hr>-->
