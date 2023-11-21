@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning **Nest.js, PostgreSQL, Node.js Design Patterns**
 
-- 📝 I write on [https://medium.com/@ahmadmashaal01](https://medium.com/@ahmadmashaal01), but currently refilling my pen!
+<!-- - 📝 I write on [https://medium.com/@ahmadmashaal01](https://medium.com/@ahmadmashaal01), but currently refilling my pen! -->
 
-- 📫 How to reach me **ahmadmashaal01@gmail.com**
+- 📫 Reach me out at **ahmadmashaal01@gmail.com**
 <!--<hr>-->
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
@@ -33,5 +33,6 @@
 <!-- <hr> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=relin404&show_icons=true&locale=en" alt="relin404" /></p>
 <hr>
-<h3 align="left">Trophies:</h3>
+<!-- <h3 align="left">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=relin404" alt="relin404" /></a> </p>
+-->
