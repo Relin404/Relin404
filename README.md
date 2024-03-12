@@ -2,17 +2,18 @@
 
 <h1 align="left">Hola 👋</h1>
 
-###
+<!-- ### -->
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <p align="left">
 I'm Ahmad, a backend engineer.
 </p>
 
-###
+<!-- ### -->
 
-<br clear="both">
+<hr>
+<!-- <br clear="both"> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -45,8 +46,7 @@ I'm Ahmad, a backend engineer.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
+<hr>
 
 <h3 align="left">Stats:</h3>
 
